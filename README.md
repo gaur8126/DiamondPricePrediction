@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Diamond Price Prediction project leverages machine learning techniques with `85.4% accuracy` to forecast diamond prices based on various attributes. By analyzing factors such as carat weight, cut, color, clarity, and other physical dimensions, the model aims to provide accurate price predictions, assisting both buyers and sellers in making informed decisions.
+The Diamond Price Prediction project leverages machine learning techniques with `91.12% accuracy` to forecast diamond prices based on various attributes. By analyzing factors such as carat weight, cut, color, clarity, and other physical dimensions, the model aims to provide accurate price predictions, assisting both buyers and sellers in making informed decisions.
 
 ## Dataset
 
